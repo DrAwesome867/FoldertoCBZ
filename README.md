@@ -12,3 +12,4 @@ Features to add:
 1. Only select files with picture extensions to add to the archive
 2. Select custom directory for 7-Zip if 7-Zip is not found at the default directory
 3. Select different directory to store archive files
+4. Add the option to turn individual chapters into volumes of a selected length
